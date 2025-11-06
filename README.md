@@ -1,2 +1,6 @@
-v1 of creating my own macro
-Code isnt really encrypted, i dont mind if you want to use it
+# MEDIUM Macro v1
+
+Control + Shift + G -> Dock window into the macro screen  
+Control + R -> Start recording
+
+
