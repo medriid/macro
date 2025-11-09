@@ -1,0 +1,5 @@
+# Ignore all token files
+*.token
+
+# But keep this directory in git
+!.gitignore
